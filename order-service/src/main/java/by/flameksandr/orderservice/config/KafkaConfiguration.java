@@ -1,4 +1,4 @@
-package by.flameksandr.emailservice.config;
+package by.flameksandr.orderservice.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.beans.factory.annotation.Value;
